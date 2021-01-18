@@ -1,0 +1,15 @@
+tmp/*
+node_modules/
+*.txt
+.idea
+*.iml
+*.ipr
+*.iws
+/npm-debug.log
+.DAV
+copy_shield.sh
+npm-shrinkwrap.json
+package-lock.json
+*~
+clazzes-maven/target
+.DS_Store
